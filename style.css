@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background:linear-gradient(#81ecec,#00cec9)
+}
+img{
+    border-radius: 150px;
+}
+p{
+    font-family: serif;
+    font-size: 25px;
+}
+h1{
+    font-size: 30px;
+    color:#8854d0;
+    border-style: solid;
+    background-color:#FFD700;
+}
+h2{font-size: 30px;
+    color:#8854d0;
+    border-style: solid;
+    background-color:#FFD700;
+}
